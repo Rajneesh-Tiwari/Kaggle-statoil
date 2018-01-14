@@ -9,3 +9,4 @@ Approaches tried:
 4. Four layer CNN with 'incidence angle' as a separate input layer
 5. 4 layer CNN without 'incidence angle' as a separate input layer
 6. Most models also include 'data augmentation', 'test time augmentation' and use of pesudolabels to improve generalization in presence  of low sample size
+7. A stacking based approach is also listed
